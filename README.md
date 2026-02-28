@@ -1,6 +1,4 @@
-# Welcome to My Retro Pixelated Profile!
-
-🎮 **DevOps Enthusiast** 
+🎮 DevOps Enthusiast
 
 Skills:
 - Continuous Integration/Continuous Deployment (CI/CD)
