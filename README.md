@@ -1,17 +1,16 @@
-# Retro Pixelated Gaming Style
+# Welcome to My Retro Pixelated Profile!
 
-## DevOps and Platform Engineering Skills
-- **CI/CD**: Experience in building automated pipelines using tools like Jenkins, GitHub Actions, and CircleCI.
-- **Containerization**: Proficient with Docker and Kubernetes for application deployment and orchestration.
-- **Infrastructure as Code**: Skilled in using Terraform and Ansible for provisioning and managing infrastructure.
-- **Monitoring and Logging**: Familiar with Prometheus, Grafana, ELK Stack for observability.
-- **Cloud Platforms**: Proficient in AWS, Azure, and Google Cloud Platform.
+🎮 **DevOps Enthusiast** 
 
-## LeetCode Profile
-Check out my LeetCode profile for coding challenges and solutions: [LeetCode Profile](https://leetcode.com/your_leetcode_username)
+Skills:
+- Continuous Integration/Continuous Deployment (CI/CD)
+- Containerization (Docker, Kubernetes)
+- Cloud Platforms (AWS, Azure)
+- Infrastructure as Code (Terraform, Ansible)
 
-## LinkedIn Profile
-Connect with me on LinkedIn: [LinkedIn Profile](https://www.linkedin.com/in/your_linkedin_username) 
+## Connect With Me:
+- LeetCode Profile: [View my LeetCode](https://leetcode.com/u/flsEPqZ27o/)
+- LinkedIn: [Connect on LinkedIn](https://www.linkedin.com/in/ashutosh-lodha/)
+- Email: lodhaashutosh@gmail.com
 
-## About Me
-I am a passionate DevOps and Platform Engineer with a love for retro gaming!
+### Let's build awesome things together!
