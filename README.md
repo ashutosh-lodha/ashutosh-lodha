@@ -2,7 +2,7 @@
 
 ✨ Platform Engineer / DevOps Engineer
 
-[LeetCode](https://leetcode.com/your-profile)
+[LeetCode](https://leetcode.com/u/flsEPqZ27o/)
 
-- Email: your.email@example.com
-- LinkedIn: [Your LinkedIn](https://linkedin.com/in/your-profile)
+- Email: lodhaashutosh@gmail.com
+- LinkedIn: https://www.linkedin.com/in/ashutosh-lodha/
