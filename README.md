@@ -1,14 +1,43 @@
-🎮 DevOps Enthusiast
+# Hi, I'm Ashutosh Lodha
 
-Skills:
-- Continuous Integration/Continuous Deployment (CI/CD)
-- Containerization (Docker, Kubernetes)
-- Cloud Platforms (AWS, Azure)
-- Infrastructure as Code (Terraform, Ansible)
+✨ **Platform Engineer / DevOps Engineer** ✨
 
-## Connect With Me:
-- LeetCode Profile: [View my LeetCode](https://leetcode.com/u/flsEPqZ27o/)
-- LinkedIn: [Connect on LinkedIn](https://www.linkedin.com/in/ashutosh-lodha/)
-- Email: lodhaashutosh@gmail.com
 
-### Let's build awesome things together!
+---
+
+ASCII Art Styling
+
+```plaintext
+ASCII ART HERE
+```
+
+---
+
+## KodeCloud Learning Path
+
+1. **Learning Path Item 1**
+2. **Learning Path Item 2**
+3. **Learning Path Item 3**
+
+---
+
+## Tech Stack
+
+- Technology 1
+- Technology 2
+- Technology 3
+
+---
+
+## LeetCode Profile
+
+[LeetCode](https://leetcode.com/your-profile)
+
+---
+
+## Contact
+
+- Email: your.email@example.com
+- LinkedIn: [Your LinkedIn](https://linkedin.com/in/your-profile)
+
+---
