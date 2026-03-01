@@ -194,28 +194,32 @@ Currently focusing on <b>Go-based System Design</b>, <b>Infrastructure as Code</
 
 ### 📫 Connect with Me
 
-<p align="center">
+<table align="center">
+<tr>
 
+<td align="center" width="160">
 <a href="mailto:lodhaashutosh@gmail.com">
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/google/google-original.svg" width="48"/>
 </a><br>
 <b>lodhaashutosh@gmail.com</b>
+</td>
 
-<br><br>
-
+<td align="center" width="160">
 <a href="https://www.linkedin.com/in/ashutosh-lodha/" target="_blank">
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" width="48"/>
 </a><br>
-LinkedIn
+ashutosh-lodha
+</td>
 
-<br><br>
-
+<td align="center" width="160">
 <a href="https://leetcode.com/u/flsEPqZ27o/" target="_blank">
 <img src="https://cdn.jsdelivr.net/gh/simple-icons/simple-icons/icons/leetcode.svg" width="48"/>
 </a><br>
-LeetCode
+flsEPqZ27o
+</td>
 
-</p>
+</tr>
+</table>
 
 ---
 
