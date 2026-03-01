@@ -6,7 +6,7 @@ Currently focusing on Go-based system design, Infrastructure as Code, and Kubern
 
 ⚙️ DevOps / Platform Stack
 <p align="left"> 
-<img src="https://skillicons.dev/icons?i=linux,ubuntu,bash,go,docker,kubernetes,terraform,ansible,nginx,git,github,gitlab,jenkins,githubactions" />
+<img src="https://skillicons.dev/icons?i=linux,ubuntu,go,docker,kubernetes,terraform,ansible,nginx,git,github,gitlab,jenkins,githubactions" />
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/helm/helm-original.svg" height="48"/>
 </p>
 
