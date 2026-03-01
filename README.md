@@ -8,7 +8,7 @@ Currently focusing on <b>Go-based System Design</b>, <b>Infrastructure as Code</
 
 ---
 
-### ⚙️ DevOps / Platform Stack
+### ⚙️ DevOps / Cloud / Platform Engineering Stack
 
 <table align="center">
 <tr>
@@ -48,9 +48,11 @@ Currently focusing on <b>Go-based System Design</b>, <b>Infrastructure as Code</
 <td align="center" width="100">
 <img src="https://skillicons.dev/icons?i=nginx" width="48"/><br>NGINX
 </td>
+
 </tr>
 
 <tr>
+
 <td align="center" width="100">
 <img src="https://skillicons.dev/icons?i=git" width="48"/><br>Git
 </td>
@@ -74,15 +76,21 @@ Currently focusing on <b>Go-based System Design</b>, <b>Infrastructure as Code</
 <td align="center" width="100">
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/argocd/argocd-original.svg" width="48"/><br>ArgoCD
 </td>
+
+<td width="100"></td>
+<td width="100"></td>
+<td width="100"></td>
+
 </tr>
 </table>
 
 ---
 
-### 💻 Full Stack Web Development (MERN)
+### 💻 Web Application Development
 
 <table align="center">
 <tr>
+
 <td align="center" width="100">
 <img src="https://skillicons.dev/icons?i=nodejs" width="48"/><br>NodeJS
 </td>
@@ -107,9 +115,6 @@ Currently focusing on <b>Go-based System Design</b>, <b>Infrastructure as Code</
 <img src="https://skillicons.dev/icons?i=css" width="48"/><br>CSS
 </td>
 
-<td align="center" width="100">
-<img src="https://skillicons.dev/icons?i=python" width="48"/><br>Python
-</td>
 </tr>
 </table>
 
@@ -119,6 +124,7 @@ Currently focusing on <b>Go-based System Design</b>, <b>Infrastructure as Code</
 
 <table align="center">
 <tr>
+
 <td align="center" width="100">
 <img src="https://skillicons.dev/icons?i=redis" width="48"/><br>Redis
 </td>
@@ -134,6 +140,7 @@ Currently focusing on <b>Go-based System Design</b>, <b>Infrastructure as Code</
 <td align="center" width="100">
 <img src="https://skillicons.dev/icons?i=postgres" width="48"/><br>PostgreSQL
 </td>
+
 </tr>
 </table>
 
@@ -143,6 +150,7 @@ Currently focusing on <b>Go-based System Design</b>, <b>Infrastructure as Code</
 
 <table align="center">
 <tr>
+
 <td align="center" width="120">
 <img src="https://skillicons.dev/icons?i=prometheus" width="48"/><br>Prometheus
 </td>
@@ -150,10 +158,10 @@ Currently focusing on <b>Go-based System Design</b>, <b>Infrastructure as Code</
 <td align="center" width="120">
 <img src="https://skillicons.dev/icons?i=grafana" width="48"/><br>Grafana
 </td>
+
 </tr>
 </table>
 
----
 
 ### 📌 Current Focus
 
