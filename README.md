@@ -24,12 +24,19 @@ Currently focusing on Go-based system design, Infrastructure as Code, and Kubern
 
 📌 Current Focus
 -Distributed Systems in Go
+
 -Linux System Administration
+
 -Kubernetes Cluster Management
+
 -Infrastructure as Code (Terraform)
+
 -Configuration Management (Ansible)
+
 -CI/CD Pipelines
+
 -GitOps (ArgoCD)
+
 -Monitoring (Prometheus + Grafana)
 
 Reverse Proxy & Load Balancing (NGINX)
