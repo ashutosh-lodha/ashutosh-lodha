@@ -77,10 +77,6 @@ Currently focusing on <b>Go-based System Design</b>, <b>Infrastructure as Code</
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/argocd/argocd-original.svg" width="48"/><br>ArgoCD
 </td>
 
-<td width="100"></td>
-<td width="100"></td>
-<td width="100"></td>
-
 </tr>
 </table>
 
