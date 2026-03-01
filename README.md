@@ -42,39 +42,11 @@ Currently focusing on <b>Go-based System Design</b>, <b>Infrastructure as Code</
 </td>
 
 <td align="center" width="100">
-<img src="https://skillicons.dev/icons?i=ansible" width="48"/><br>Ansible
-</td>
-
-<td align="center" width="100">
 <img src="https://skillicons.dev/icons?i=nginx" width="48"/><br>NGINX
-</td>
-
-</tr>
-
-<tr>
-
-<td align="center" width="100">
-<img src="https://skillicons.dev/icons?i=git" width="48"/><br>Git
-</td>
-
-<td align="center" width="100">
-<img src="https://skillicons.dev/icons?i=github" width="48"/><br>GitHub
-</td>
-
-<td align="center" width="100">
-<img src="https://skillicons.dev/icons?i=gitlab" width="48"/><br>GitLab
-</td>
-
-<td align="center" width="100">
-<img src="https://skillicons.dev/icons?i=jenkins" width="48"/><br>Jenkins
 </td>
 
 <td align="center" width="100">
 <img src="https://skillicons.dev/icons?i=githubactions" width="48"/><br>GitHub Actions
-</td>
-
-<td align="center" width="100">
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/argocd/argocd-original.svg" width="48"/><br>ArgoCD
 </td>
 
 </tr>
@@ -82,7 +54,7 @@ Currently focusing on <b>Go-based System Design</b>, <b>Infrastructure as Code</
 
 ---
 
-### 💻 Full Stack Web Development (MERN)
+### 💻 Application Development (MERN)
 
 <table align="center">
 <tr>
@@ -130,10 +102,6 @@ Currently focusing on <b>Go-based System Design</b>, <b>Infrastructure as Code</
 </td>
 
 <td align="center" width="100">
-<img src="https://skillicons.dev/icons?i=mysql" width="48"/><br>MySQL
-</td>
-
-<td align="center" width="100">
 <img src="https://skillicons.dev/icons?i=postgres" width="48"/><br>PostgreSQL
 </td>
 
@@ -142,7 +110,7 @@ Currently focusing on <b>Go-based System Design</b>, <b>Infrastructure as Code</
 
 ---
 
-### 📡 Monitoring, Logging & Observability
+### 📡 Monitoring & Observability
 
 <table align="center">
 <tr>
@@ -160,35 +128,29 @@ Currently focusing on <b>Go-based System Design</b>, <b>Infrastructure as Code</
 
 ---
 
-### 🧑‍💻 Programming Languages
+### 📘 Currently Exploring
 
 <table align="center">
 <tr>
 
-<td align="center" width="100">
-<img src="https://skillicons.dev/icons?i=go" width="48"/><br>Go
+<td align="center" width="120">
+<img src="https://skillicons.dev/icons?i=ansible" width="48"/><br>Ansible
 </td>
 
-<td align="center" width="100">
-<img src="https://skillicons.dev/icons?i=python" width="48"/><br>Python
+<td align="center" width="120">
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/argocd/argocd-original.svg" width="48"/><br>ArgoCD
+</td>
+
+<td align="center" width="120">
+<img src="https://skillicons.dev/icons?i=jenkins" width="48"/><br>Jenkins
+</td>
+
+<td align="center" width="120">
+<img src="https://skillicons.dev/icons?i=gitlab" width="48"/><br>GitLab
 </td>
 
 </tr>
 </table>
-
----
-
-### 📌 Current Focus
-
-- Distributed Systems in Go  
-- Linux System Administration  
-- Kubernetes Cluster Management  
-- Infrastructure as Code (Terraform)  
-- Configuration Management (Ansible)  
-- CI/CD Pipelines  
-- GitOps (ArgoCD)  
-- Monitoring (Prometheus + Grafana)  
-- Reverse Proxy & Load Balancing (NGINX)  
 
 ---
 
@@ -220,9 +182,3 @@ flsEPqZ27o
 
 </tr>
 </table>
-
-<p align="center">
-<img width="454" height="275" src="https://github.com/user-attachments/assets/f56b4d41-aa01-4792-971e-3c9653805022" />
-</p>
- 
- ---
