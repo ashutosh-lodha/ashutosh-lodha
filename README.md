@@ -12,6 +12,11 @@ Currently focusing on <b>Go-based System Design</b>, <b>Infrastructure as Code</
 
 <table align="center">
 <tr>
+
+<td align="center" width="100">
+<img src="https://skillicons.dev/icons?i=aws" width="48"/><br>AWS
+</td>
+
 <td align="center" width="100">
 <img src="https://skillicons.dev/icons?i=linux" width="48"/><br>Linux
 </td>
@@ -64,10 +69,6 @@ Currently focusing on <b>Go-based System Design</b>, <b>Infrastructure as Code</
 
 <td align="center" width="100">
 <img src="https://skillicons.dev/icons?i=githubactions" width="48"/><br>GitHub Actions
-</td>
-
-<td align="center" width="100">
-<img src="https://skillicons.dev/icons?i=aws" width="48"/><br>AWS
 </td>
 
 <td align="center" width="100">
