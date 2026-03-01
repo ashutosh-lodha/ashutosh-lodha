@@ -5,7 +5,10 @@ Building cloud-native platforms and distributed backend systems.
 Currently focusing on Go-based system design, Infrastructure as Code, and Kubernetes-native deployments.
 
 ⚙️ DevOps / Platform Stack
-<p align="left"> <img src="https://skillicons.dev/icons?i=linux,ubuntu,bash,go,docker,kubernetes,helm,terraform,ansible,aws,gcp,nginx,git,github,gitlab,jenkins,githubactions" /> </p>
+<p align="left"> 
+<img src="https://skillicons.dev/icons?i=linux,ubuntu,bash,go,docker,kubernetes,terraform,ansible,nginx,git,github,gitlab,jenkins,githubactions" />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/helm/helm-original.svg" height="48"/>
+</p>
 
 📡 Monitoring, Logging & Observability
 <p align="left"> <img src="https://skillicons.dev/icons?i=prometheus,grafana" /> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/elasticsearch/elasticsearch-original.svg" height="48"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kibana/kibana-original.svg" height="48"/> </p>
