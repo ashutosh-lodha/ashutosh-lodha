@@ -79,23 +79,43 @@ Currently focusing on <b>Go-based System Design</b>, <b>Infrastructure as Code</
 
 ---
 
-### 📡 Monitoring, Logging & Observability
+### 💻 Full Stack Web Development (MERN)
 
 <table align="center">
 <tr>
-<td align="center" width="120">
-<img src="https://skillicons.dev/icons?i=prometheus" width="48"/><br>Prometheus
+<td align="center" width="100">
+<img src="https://skillicons.dev/icons?i=nodejs" width="48"/><br>NodeJS
 </td>
 
-<td align="center" width="120">
-<img src="https://skillicons.dev/icons?i=grafana" width="48"/><br>Grafana
+<td align="center" width="100">
+<img src="https://skillicons.dev/icons?i=express" width="48"/><br>Express
+</td>
+
+<td align="center" width="100">
+<img src="https://skillicons.dev/icons?i=react" width="48"/><br>React
+</td>
+
+<td align="center" width="100">
+<img src="https://skillicons.dev/icons?i=js" width="48"/><br>JavaScript
+</td>
+
+<td align="center" width="100">
+<img src="https://skillicons.dev/icons?i=html" width="48"/><br>HTML
+</td>
+
+<td align="center" width="100">
+<img src="https://skillicons.dev/icons?i=css" width="48"/><br>CSS
+</td>
+
+<td align="center" width="100">
+<img src="https://skillicons.dev/icons?i=python" width="48"/><br>Python
 </td>
 </tr>
 </table>
 
 ---
 
-### 🌐 Networking & Databases
+### 🌐 Databases
 
 <table align="center">
 <tr>
@@ -119,40 +139,16 @@ Currently focusing on <b>Go-based System Design</b>, <b>Infrastructure as Code</
 
 ---
 
-### 💻 Development Background (MERN)
+### 📡 Monitoring, Logging & Observability
 
 <table align="center">
 <tr>
-<td align="center" width="100">
-<img src="https://skillicons.dev/icons?i=nodejs" width="48"/><br>NodeJS
+<td align="center" width="120">
+<img src="https://skillicons.dev/icons?i=prometheus" width="48"/><br>Prometheus
 </td>
 
-<td align="center" width="100">
-<img src="https://skillicons.dev/icons?i=express" width="48"/><br>Express
-</td>
-
-<td align="center" width="100">
-<img src="https://skillicons.dev/icons?i=react" width="48"/><br>React
-</td>
-
-<td align="center" width="100">
-<img src="https://skillicons.dev/icons?i=mongodb" width="48"/><br>MongoDB
-</td>
-
-<td align="center" width="100">
-<img src="https://skillicons.dev/icons?i=js" width="48"/><br>JavaScript
-</td>
-
-<td align="center" width="100">
-<img src="https://skillicons.dev/icons?i=html" width="48"/><br>HTML
-</td>
-
-<td align="center" width="100">
-<img src="https://skillicons.dev/icons?i=css" width="48"/><br>CSS
-</td>
-
-<td align="center" width="100">
-<img src="https://skillicons.dev/icons?i=python" width="48"/><br>Python
+<td align="center" width="120">
+<img src="https://skillicons.dev/icons?i=grafana" width="48"/><br>Grafana
 </td>
 </tr>
 </table>
