@@ -20,7 +20,7 @@ Currently focusing on Go-based system design, Infrastructure as Code, and Kubern
 <p align="left"> <img src="https://skillicons.dev/icons?i=docker,kubernetes" /> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/argocd/argocd-original.svg" height="48"/> </p>
 
 💻 Development Background (MERN)
-<p align="left"> <img src="https://skillicons.dev/icons?i=nodejs,express,react,mongodb,js,html,css,python,c,cpp" /> </p>
+<p align="left"> <img src="https://skillicons.dev/icons?i=nodejs,express,react,mongodb,js,html,css,python" /> </p>
 
 📌 Current Focus
 -Distributed Systems in Go
