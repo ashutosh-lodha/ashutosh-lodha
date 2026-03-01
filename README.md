@@ -11,7 +11,7 @@ Currently focusing on Go-based system design, Infrastructure as Code, and Kubern
 </p>
 
 📡 Monitoring, Logging & Observability
-<p align="left"> <img src="https://skillicons.dev/icons?i=prometheus,grafana" /> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/elasticsearch/elasticsearch-original.svg" height="48"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kibana/kibana-original.svg" height="48"/> </p>
+<p align="left"> <img src="https://skillicons.dev/icons?i=prometheus,grafana" /> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/elasticsearch/elasticsearch-original.svg" height="48"/> 
 
 🌐 Networking & Databases
 <p align="left"> <img src="https://skillicons.dev/icons?i=redis,mongodb,mysql,postgres" /> </p>
