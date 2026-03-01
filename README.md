@@ -86,7 +86,7 @@ Currently focusing on <b>Go-based System Design</b>, <b>Infrastructure as Code</
 
 ---
 
-### 💻 Web Application Development
+### 💻 Full Stack Web Development (MERN)
 
 <table align="center">
 <tr>
@@ -162,6 +162,25 @@ Currently focusing on <b>Go-based System Design</b>, <b>Infrastructure as Code</
 </tr>
 </table>
 
+---
+
+### 🧑‍💻 Programming Languages
+
+<table align="center">
+<tr>
+
+<td align="center" width="100">
+<img src="https://skillicons.dev/icons?i=go" width="48"/><br>Go
+</td>
+
+<td align="center" width="100">
+<img src="https://skillicons.dev/icons?i=python" width="48"/><br>Python
+</td>
+
+</tr>
+</table>
+
+---
 
 ### 📌 Current Focus
 
