@@ -46,7 +46,7 @@ Currently focusing on <b>Go-based System Design</b>, <b>Infrastructure as Code</
 </td>
 
 <td align="center" width="100">
-<img src="https://skillicons.dev/icons?i=github" width="48"/><br>GitHub
+<img src="https://skillicons.dev/icons?i=git" width="48"/><br>Git
 </td>
 
 </tr>
