@@ -165,7 +165,7 @@ Currently focusing on <b>Go-based System Design</b>, <b>Infrastructure as Code</
 
 <td align="center" width="160">
 <a href="mailto:lodhaashutosh@gmail.com">
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/google/google-original.svg" width="48"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/google/gmail.svg" width="48"/>
 </a><br>
 <b>lodhaashutosh@gmail.com</b>
 </td>
