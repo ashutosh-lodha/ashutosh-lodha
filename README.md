@@ -46,7 +46,7 @@ Currently focusing on <b>Go-based System Design</b>, <b>Infrastructure as Code</
 </td>
 
 <td align="center" width="100">
-<img src="https://skillicons.dev/icons?i=githubactions" width="48"/><br>GitHub Actions
+<img src="https://skillicons.dev/icons?i=github" width="48"/><br>GitHub
 </td>
 
 </tr>
@@ -149,8 +149,8 @@ Currently focusing on <b>Go-based System Design</b>, <b>Infrastructure as Code</
 <img src="https://skillicons.dev/icons?i=jenkins" width="48"/><br>Jenkins
 </td>
 
-<td align="center" width="120">
-<img src="https://skillicons.dev/icons?i=gitlab" width="48"/><br>GitLab
+<td align="center" width="100">
+<img src="https://skillicons.dev/icons?i=githubactions" width="48"/><br>GitHub Actions
 </td>
 
 </tr>
