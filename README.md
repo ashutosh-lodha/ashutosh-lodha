@@ -54,7 +54,7 @@ Currently focusing on <b>Go-based System Design</b>, <b>Infrastructure as Code</
 
 ---
 
-### 💻 Application Development (MERN)
+### 💻 Application Development
 
 <table align="center">
 <tr>
@@ -81,6 +81,10 @@ Currently focusing on <b>Go-based System Design</b>, <b>Infrastructure as Code</
 
 <td align="center" width="100">
 <img src="https://skillicons.dev/icons?i=css" width="48"/><br>CSS
+</td>
+
+<td align="center" width="100">
+<img src="https://skillicons.dev/icons?i=python" width="48"/><br>Python
 </td>
 
 </tr>
