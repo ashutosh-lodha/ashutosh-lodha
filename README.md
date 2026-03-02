@@ -158,7 +158,7 @@ Currently focusing on <b>Go-based System Design</b>, <b>Infrastructure as Code</
 
 ---
 
-### 📫 Connect with Me
+### 📫 Let's Connect
 
 <table align="center">
 <tr>
