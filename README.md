@@ -184,8 +184,3 @@ flsEPqZ27o
 </table>
  
  ---
- 
-<p align="center">
-<img width="454" height="275" src="https://github.com/user-attachments/assets/f56b4d41-aa01-4792-971e-3c9653805022" />
-</p>
-
