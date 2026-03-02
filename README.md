@@ -181,7 +181,7 @@ ashutosh-lodha
 <a href="https://leetcode.com/u/flsEPqZ27o/" target="_blank">
 <img src="https://cdn.jsdelivr.net/gh/simple-icons/simple-icons/icons/leetcode.svg" width="48"/>
 </a><br>
-flsEPqZ27o
+LeetCode
 </td>
 
 </tr>
