@@ -165,7 +165,7 @@ Currently focusing on <b>Go-based System Design</b>, <b>Infrastructure as Code</
 
 <td align="center" width="160">
 <a href="mailto:lodhaashutosh@gmail.com">
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/google/gmail.svg" width="48"/>
+<img src="https://cdn.jsdelivr.net/gh/simple-icons/simple-icons/icons/gmail.svg" width="48"/>
 </a><br>
 <b>lodhaashutosh@gmail.com</b>
 </td>
@@ -174,7 +174,7 @@ Currently focusing on <b>Go-based System Design</b>, <b>Infrastructure as Code</
 <a href="https://www.linkedin.com/in/ashutosh-lodha/" target="_blank">
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" width="48"/>
 </a><br>
-ashutosh-lodha
+LinkedIn
 </td>
 
 <td align="center" width="160">
