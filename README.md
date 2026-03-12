@@ -68,10 +68,6 @@ Currently focusing on <b>Go-based System Design</b>, <b>Infrastructure as Code</
 </td>
 
 <td align="center" width="100">
-<img src="https://skillicons.dev/icons?i=react" width="48"/><br>React
-</td>
-
-<td align="center" width="100">
 <img src="https://skillicons.dev/icons?i=js" width="48"/><br>JavaScript
 </td>
 
