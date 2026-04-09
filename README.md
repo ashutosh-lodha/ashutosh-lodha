@@ -125,9 +125,9 @@ Currently focusing on <b>Go-based System Design</b>, <b>Infrastructure as Code</
 
 </tr>
 </table>
-
----
 <!-- 
+---
+
 ### 📘 Currently Exploring
 
 <table align="center">
