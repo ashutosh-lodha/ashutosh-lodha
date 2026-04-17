@@ -32,11 +32,11 @@ Currently focusing on <b>Go-based System Design</b>, <b>Infrastructure as Code</
 <td align="center" width="100">
 <img src="https://skillicons.dev/icons?i=kubernetes" width="48"/><br>Kubernetes
 </td>
-<!-- 
+ 
 <td align="center" width="100">
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/helm/helm-original.svg" width="48"/><br>Helm
 </td>
--->
+
 <td align="center" width="100">
 <img src="https://skillicons.dev/icons?i=terraform" width="48"/><br>Terraform
 </td>
