@@ -1,14 +1,33 @@
 <h1 align="center">👨‍💻 Hi, I'm Ashutosh Lodha</h1>
-<h3 align="center">Platform Engineer | DevOps Engineer</h3>
+<h3 align="center">Platform Engineer | DevOps Engineer | | AWS Certified Solutions Architect – Associate</h3>
 
 <p align="center">
 Building cloud-native platforms and distributed backend systems.<br>
 Currently focusing on <b>Go-based System Design</b>, <b>Infrastructure as Code</b>, and <b>Kubernetes-native Deployments</b>.
 </p>
 
+<td align="center" width="160">
+<a href="https://ashutosh-lodha.vercel.app/" target="_blank">
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/chrome/chrome-original.svg" width="48"/>
+</a><br>
+Portfolio
+</td>
+
+<p align="center">
+<img src="aws-certified-solutions-architect-associate.png" width="180"/>
+</p> 
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=ashutosh-lodha&show_icons=true&hide_border=true" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=ashutosh-lodha&hide_border=true" />
+</p>
+
 ---
 
-### ⚙️ DevOps / Cloud / Platform Engineering Stack
+### ⚙️  Cloud Native & Platform Engineering
 
 <table align="center">
 <tr>
