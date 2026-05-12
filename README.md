@@ -26,20 +26,12 @@ Focused on <b>Go</b>, <b>Kubernetes</b>, <b>Terraform</b>, <b>AWS</b>, and scala
   </a>
 </p>
 
-<img height="170" src="./aws-certified-solutions-architect-associate.png"/>
-
----
-
-<h3 align="center">GitHub Stats</h3>
-
 <p align="center">
 
-  <img height="170" src="https://github-readme-stats-sigma-five.vercel.app/api?username=ashutosh-lodha&show_icons=true&theme=github_dark&hide_border=true"/>
+  <img height="170" src="./aws-certified-solutions-architect-associate.png"/>
 
   <img height="170" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=ashutosh-lodha&layout=compact&theme=github_dark&hide_border=true"/>
-</p>
 
-<p align="center">
   <img height="170" src="https://streak-stats.demolab.com?user=ashutosh-lodha&theme=github-dark&hide_border=true"/>
 </p>
 
