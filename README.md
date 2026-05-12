@@ -31,7 +31,6 @@ Focused on <b>Go</b>, <b>Kubernetes</b>, <b>Terraform</b>, <b>AWS</b>, and scala
 <h3 align="center">Certification & GitHub Stats</h3>
 
 <p align="center">
-  <img height="170" src="./aws-certified-solutions-architect-associate.png"/>
 
   <img height="170" src="https://github-readme-stats-sigma-five.vercel.app/api?username=ashutosh-lodha&show_icons=true&theme=github_dark&hide_border=true"/>
 
@@ -39,6 +38,8 @@ Focused on <b>Go</b>, <b>Kubernetes</b>, <b>Terraform</b>, <b>AWS</b>, and scala
 </p>
 
 <p align="center">
+  <img height="170" src="./aws-certified-solutions-architect-associate.png"/>
+  
   <img height="170" src="https://streak-stats.demolab.com?user=ashutosh-lodha&theme=github-dark&hide_border=true"/>
 </p>
 
