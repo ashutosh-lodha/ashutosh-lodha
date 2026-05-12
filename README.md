@@ -37,7 +37,9 @@ Focused on <b>Go</b>, <b>Kubernetes</b>, <b>Terraform</b>, <b>AWS</b>, and scala
 ---
 
 <p align="center">
-  <img height="170" src="https://github-readme-stats.vercel.app/api?username=ashutosh-lodha&show_icons=true&theme=github_dark&hide_border=true&cache_seconds=1800"/>
+  <img height="170" src="https://github-readme-stats-sigma-five.vercel.app/api?username=ashutosh-lodha&show_icons=true&theme=github_dark&hide_border=true" />
+
+  <img height="170" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=ashutosh-lodha&layout=compact&theme=github_dark&hide_border=true" />
 </p>
 
 <p align="center">
