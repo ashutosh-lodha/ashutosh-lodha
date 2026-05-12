@@ -26,9 +26,11 @@ Focused on <b>Go</b>, <b>Kubernetes</b>, <b>Terraform</b>, <b>AWS</b>, and scala
   </a>
 </p>
 
+<img height="170" src="./aws-certified-solutions-architect-associate.png"/>
+
 ---
 
-<h3 align="center">Certification & GitHub Stats</h3>
+<h3 align="center">GitHub Stats</h3>
 
 <p align="center">
 
@@ -38,8 +40,6 @@ Focused on <b>Go</b>, <b>Kubernetes</b>, <b>Terraform</b>, <b>AWS</b>, and scala
 </p>
 
 <p align="center">
-  <img height="170" src="./aws-certified-solutions-architect-associate.png"/>
-  
   <img height="170" src="https://streak-stats.demolab.com?user=ashutosh-lodha&theme=github-dark&hide_border=true"/>
 </p>
 
