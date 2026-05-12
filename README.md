@@ -26,6 +26,7 @@ Focused on <b>Go</b>, <b>Kubernetes</b>, <b>Terraform</b>, <b>AWS</b>, and scala
   </a>
 </p>
 
+
 <p align="center">
 
   <a href="https://www.credly.com/badges/d2f251dc-fdd6-4b48-868a-3f3438753a8f/public_url">
