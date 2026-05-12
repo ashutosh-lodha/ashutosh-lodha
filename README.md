@@ -47,7 +47,6 @@ Focused on <b>Go</b>, <b>Kubernetes</b>, <b>Terraform</b>, <b>AWS</b>, and scala
 </p>
 
 ---
----
 
 ### ⚙️  Cloud Native & Platform Engineering
 
@@ -194,33 +193,3 @@ Focused on <b>Go</b>, <b>Kubernetes</b>, <b>Terraform</b>, <b>AWS</b>, and scala
 </table>
 
 ---
-
-### 📫 Let's Connect
-
-<table align="center">
-<tr>
-
-<td align="center" width="160">
-<a href="mailto:lodhaashutosh@gmail.com">
-<img src="https://cdn.jsdelivr.net/gh/simple-icons/simple-icons/icons/maildotru.svg" width="48"/>
-</a><br>
-<b>lodhaashutosh@gmail.com</b>
-</td>
-
-<td align="center" width="160">
-<a href="https://www.linkedin.com/in/ashutosh-lodha/" target="_blank">
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" width="48"/>
-</a><br>
-LinkedIn
-</td>
-
-<td align="center" width="160">
-<a href="https://leetcode.com/u/flsEPqZ27o/" target="_blank">
-<img src="https://cdn.jsdelivr.net/gh/simple-icons/simple-icons/icons/leetcode.svg" width="48"/>
-</a><br>
-LeetCode
-</td>
-
-</tr>
-</table>
- 
