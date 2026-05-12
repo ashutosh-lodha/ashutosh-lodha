@@ -12,30 +12,41 @@ Building cloud-native platforms, Kubernetes infrastructure, and distributed back
 Focused on <b>Go</b>, <b>Kubernetes</b>, <b>Terraform</b>, <b>AWS</b>, and scalable cloud architecture.
 </p>
 
+---
+
 <p align="center">
-  <a href="https://ashutosh-lodha.vercel.app/" target="_blank">
-    <img src="https://img.shields.io/badge/Portfolio-Visit-blue?style=for-the-badge&logo=google-chrome&logoColor=white"/>
+  <a href="https://ashutosh-lodha.vercel.app/">
+    <img src="https://img.shields.io/badge/Portfolio-Visit-blue?style=for-the-badge&logo=google-chrome&logoColor=white" />
   </a>
 
-  <a href="https://www.linkedin.com/in/ashutosh-lodha/" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin&logoColor=white"/>
+  <a href="https://www.linkedin.com/in/ashutosh-lodha/">
+    <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
 
-  <a href="https://leetcode.com/u/flsEPqZ27o/" target="_blank">
-    <img src="https://img.shields.io/badge/LeetCode-Profile-orange?style=for-the-badge&logo=leetcode&logoColor=white"/>
+  <a href="https://leetcode.com/u/flsEPqZ27o/">
+    <img src="https://img.shields.io/badge/LeetCode-Profile-orange?style=for-the-badge&logo=leetcode&logoColor=white" />
   </a>
 </p>
 
+---
+
+<h3 align="center">🏅 AWS Certification</h3>
+
 <p align="center">
-  <img src="https://images.credly.com/size/340x340/images/8f6d0f3b-0c9f-4d9c-9b8b-2c6f9e4f1e77/image.png" width="180"/>
+  <img src="./aws-certified-solutions-architect-associate.png" width="200"/>
+</p>
+
+---
+
+<p align="center">
+  <img height="170" src="https://github-readme-stats.vercel.app/api?username=ashutosh-lodha&show_icons=true&theme=github_dark&hide_border=true&cache_seconds=1800"/>
 </p>
 
 <p align="center">
-  <img height="170" src="https://github-readme-stats.vercel.app/api?username=ashutosh-lodha&show_icons=true&theme=transparent&hide_border=true&rank_icon=github"/>
-  
-  <img height="170" src="https://github-readme-streak-stats.herokuapp.com/?user=ashutosh-lodha&theme=transparent&hide_border=true"/>
+  <img height="170" src="https://streak-stats.demolab.com?user=ashutosh-lodha&theme=github-dark&hide_border=true"/>
 </p>
 
+---
 ---
 
 ### ⚙️  Cloud Native & Platform Engineering
