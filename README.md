@@ -12,8 +12,6 @@ Building cloud-native platforms, Kubernetes infrastructure, and distributed back
 Focused on <b>Go</b>, <b>Kubernetes</b>, <b>Terraform</b>, <b>AWS</b>, and scalable cloud architecture.
 </p>
 
----
-
 <p align="center">
   <a href="https://ashutosh-lodha.vercel.app/">
     <img src="https://img.shields.io/badge/Portfolio-Visit-blue?style=for-the-badge&logo=google-chrome&logoColor=white" />
