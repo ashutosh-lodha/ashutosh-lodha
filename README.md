@@ -81,6 +81,14 @@ Focused on <b>Go</b>, <b>Kubernetes</b>, <b>Terraform</b>, <b>AWS</b>, and scala
 <img src="https://skillicons.dev/icons?i=git" width="48"/><br>Git
 </td>
 
+<td align="center" width="120">
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/argocd/argocd-original.svg" width="48"/><br>ArgoCD
+</td>
+
+<td align="center" width="120">
+<img src="https://skillicons.dev/icons?i=jenkins" width="48"/><br>Jenkins
+</td>
+
 </tr>
 </table>
 
