@@ -82,7 +82,7 @@ Focused on <b>Go</b>, <b>Kubernetes</b>, <b>Terraform</b>, <b>AWS</b>, and scala
 
 ---
 
-### 💻 Application Development
+### 💻 Application Development + CI/CD
 
 <table align="center">
 <tr>
