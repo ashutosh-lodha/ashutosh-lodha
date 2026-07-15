@@ -5,7 +5,7 @@ Software Engineer | AWS Certified Solutions Architect – Associate
 </h3>
 
 <p align="center">
-Building cloud-native platforms,  distributed backend systemsand, and scalable cloud architecture.
+Building cloud-native platforms,  distributed backend systems, and scalable cloud architecture.
 </p>
 
 <p align="center">
