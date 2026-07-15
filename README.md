@@ -5,11 +5,7 @@ Software Engineer | AWS Certified Solutions Architect – Associate
 </h3>
 
 <p align="center">
-Building cloud-native platforms, Kubernetes infrastructure, and distributed backend systems.
-</p>
-
-<p align="center">
-Focused on <b>Go</b>, <b>Kubernetes</b>, <b>Terraform</b>, <b>AWS</b>, and scalable cloud architecture.
+Building cloud-native platforms,  distributed backend systemsand, and scalable cloud architecture.
 </p>
 
 <p align="center">
