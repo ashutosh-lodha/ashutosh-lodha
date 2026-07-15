@@ -1,7 +1,7 @@
 <h1 align="center">👨‍💻 Hi, I'm Ashutosh Lodha</h1>
 
 <h3 align="center">
-Platform Engineer | Cloud & DevOps Engineer | AWS Certified Solutions Architect – Associate
+Software Engineer | AWS Certified Solutions Architect – Associate
 </h3>
 
 <p align="center">
