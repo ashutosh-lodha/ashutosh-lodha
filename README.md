@@ -35,7 +35,6 @@ Built privacy first pay as you go cloud storage SaaS - <a href="https://datadrop
 
   <img height="170" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=ashutosh-lodha&layout=compact&theme=github_dark&hide_border=true"/>
 
-  <img height="170" src="https://streak-stats.demolab.com?user=ashutosh-lodha&theme=github-dark&hide_border=true"/>
 </p>
 
 ---
