@@ -32,9 +32,6 @@ Built privacy first pay as you go cloud storage SaaS - <a href="https://datadrop
   <a href="https://www.credly.com/badges/d2f251dc-fdd6-4b48-868a-3f3438753a8f/public_url">
     <img height="170" src="./aws-certified-solutions-architect-associate.png"/>
   </a>
-
-  <img height="170" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=ashutosh-lodha&layout=compact&theme=github_dark&hide_border=true"/>
-
 </p>
 
 ---
