@@ -5,34 +5,40 @@ Software Engineer | AWS Certified Solutions Architect – Associate
 </h3>
 
 <p align="center">
-Building cloud-native platforms,  distributed backend systems, and scalable cloud architecture.
+Building cloud-native platforms, distributed backend systems, and scalable cloud architecture.
 </p>
 
 <p align="center">
-Built privacy first pay as you go cloud storage SaaS - <a href="https://datadrop.co.in/">DataDrop.co.in</a>
+  <a href="https://www.ashutoshdev.online/"><img src="https://img.shields.io/badge/Portfolio-Visit-blue?style=for-the-badge&logo=google-chrome&logoColor=white" alt="Portfolio" /></a>
+  <a href="https://www.linkedin.com/in/ashutosh-lodha/"><img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
+  <a href="https://leetcode.com/u/flsEPqZ27o/"><img src="https://img.shields.io/badge/LeetCode-400%2B%20questions-orange?style=for-the-badge&logo=leetcode&logoColor=white" alt="LeetCode: 400+ questions" /></a>
 </p>
 
 <p align="center">
-  <a href="https://www.ashutoshdev.online/">
-    <img src="https://img.shields.io/badge/Portfolio-Visit-blue?style=for-the-badge&logo=google-chrome&logoColor=white" />
-  </a>
-
-  <a href="https://www.linkedin.com/in/ashutosh-lodha/">
-    <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
-  </a>
-
-  <a href="https://leetcode.com/u/flsEPqZ27o/">
-    <img src="https://img.shields.io/badge/LeetCode-Profile-orange?style=for-the-badge&logo=leetcode&logoColor=white" />
-  </a>
+  <a href="https://www.credly.com/badges/d2f251dc-fdd6-4b48-868a-3f3438753a8f/public_url"><img height="170" src="./aws-certified-solutions-architect-associate.png" alt="AWS Certified Solutions Architect – Associate" /></a>
 </p>
 
+---
 
-<p align="center">
+### 🚀 Live Projects
 
-  <a href="https://www.credly.com/badges/d2f251dc-fdd6-4b48-868a-3f3438753a8f/public_url">
-    <img height="170" src="./aws-certified-solutions-architect-associate.png"/>
-  </a>
-</p>
+<table align="center">
+<tr>
+
+<td align="center" width="280">
+<a href="https://datadrop.co.in/"><b>DataDrop</b></a><br>Privacy-first, pay-as-you-go cloud storage SaaS
+</td>
+
+<td align="center" width="280">
+<a href="https://archboard.ashutoshdev.online/"><b>ArchBoard</b></a><br>The board built for system design interviews
+</td>
+
+<td align="center" width="280">
+<a href="https://uptimehq.ashutoshdev.online/"><b>UptimeHQ</b></a><br>Uptime monitoring and alerts for sites and APIs
+</td>
+
+</tr>
+</table>
 
 ---
 
@@ -43,6 +49,10 @@ Built privacy first pay as you go cloud storage SaaS - <a href="https://datadrop
 
 <td align="center" width="100">
 <img src="https://skillicons.dev/icons?i=aws" width="48"/><br>AWS
+</td>
+
+<td align="center" width="100">
+<img src="https://skillicons.dev/icons?i=gcp" width="48"/><br>Google Cloud
 </td>
 
 <td align="center" width="100">
@@ -60,9 +70,12 @@ Built privacy first pay as you go cloud storage SaaS - <a href="https://datadrop
 <td align="center" width="100">
 <img src="https://skillicons.dev/icons?i=kubernetes" width="48"/><br>Kubernetes
 </td>
- 
+
+</tr>
+<tr>
+
 <td align="center" width="100">
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/helm/helm-original.svg" width="48"/><br>Helm
+<img src="https://cdn.simpleicons.org/helm/3B82F6" width="48"/><br>Helm
 </td>
 
 <td align="center" width="100">
@@ -105,6 +118,14 @@ Built privacy first pay as you go cloud storage SaaS - <a href="https://datadrop
 
 <td align="center" width="100">
 <img src="https://skillicons.dev/icons?i=js" width="48"/><br>JavaScript
+</td>
+
+<td align="center" width="100">
+<img src="https://skillicons.dev/icons?i=ts" width="48"/><br>TypeScript
+</td>
+
+<td align="center" width="100">
+<img src="https://skillicons.dev/icons?i=react" width="48"/><br>React
 </td>
 
 <td align="center" width="100">
@@ -184,8 +205,7 @@ Built privacy first pay as you go cloud storage SaaS - <a href="https://datadrop
 <td align="center" width="100">
 <img src="https://skillicons.dev/icons?i=githubactions" width="48"/><br>GitHub Actions
 </td>
--->
+
 </tr>
 </table>
-
----
+-->
