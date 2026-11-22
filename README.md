@@ -47,47 +47,47 @@ Building cloud-native platforms, distributed backend systems, and scalable cloud
 <table align="center">
 <tr>
 
-<td align="center" width="120">
+<td align="center" width="130">
 <img src="https://skillicons.dev/icons?i=aws" width="48"/><br>AWS
 </td>
 
-<td align="center" width="120">
+<td align="center" width="130">
 <img src="https://skillicons.dev/icons?i=gcp" width="48"/><br>GCP
 </td>
 
-<td align="center" width="120">
+<td align="center" width="130">
 <img src="https://skillicons.dev/icons?i=linux" width="48"/><br>Linux
 </td>
 
-<td align="center" width="120">
+<td align="center" width="130">
 <img src="https://skillicons.dev/icons?i=go" width="48"/><br>Go
 </td>
 
-<td align="center" width="120">
+<td align="center" width="130">
 <img src="https://skillicons.dev/icons?i=docker" width="48"/><br>Docker
 </td>
 
 </tr>
 <tr>
 
-<td align="center" width="120">
+<td align="center" width="130">
 <img src="https://skillicons.dev/icons?i=kubernetes" width="48"/><br>Kubernetes
 </td>
 
-<td align="center" width="120">
+<td align="center" width="130">
 <img src="https://skillicons.dev/icons?i=terraform" width="48"/><br>Terraform
 </td>
 
-<td align="center" width="120">
+<td align="center" width="130">
 <img src="https://skillicons.dev/icons?i=nginx" width="48"/><br>NGINX
 </td>
 
-<td align="center" width="120">
+<td align="center" width="130">
 <img src="https://skillicons.dev/icons?i=git" width="48"/><br>Git
 </td>
 
-<td align="center" width="120">
-<img src="https://skillicons.dev/icons?i=githubactions" width="48"/><br>GitHub Actions
+<td align="center" width="130">
+<img src="https://skillicons.dev/icons?i=githubactions" width="48"/><br>GitHub&nbsp;Actions
 </td>
 
 </tr>
