@@ -47,55 +47,47 @@ Building cloud-native platforms, distributed backend systems, and scalable cloud
 <table align="center">
 <tr>
 
-<td align="center" width="100">
+<td align="center" width="120">
 <img src="https://skillicons.dev/icons?i=aws" width="48"/><br>AWS
 </td>
 
-<td align="center" width="100">
+<td align="center" width="120">
 <img src="https://skillicons.dev/icons?i=gcp" width="48"/><br>GCP
 </td>
 
-<td align="center" width="100">
+<td align="center" width="120">
 <img src="https://skillicons.dev/icons?i=linux" width="48"/><br>Linux
 </td>
 
-<td align="center" width="100">
+<td align="center" width="120">
 <img src="https://skillicons.dev/icons?i=go" width="48"/><br>Go
 </td>
 
-<td align="center" width="100">
+<td align="center" width="120">
 <img src="https://skillicons.dev/icons?i=docker" width="48"/><br>Docker
-</td>
-
-<td align="center" width="100">
-<img src="https://skillicons.dev/icons?i=kubernetes" width="48"/><br>Kubernetes
 </td>
 
 </tr>
 <tr>
 
-<td align="center" width="100">
-<img src="https://cdn.simpleicons.org/helm/3B82F6" width="48"/><br>Helm
+<td align="center" width="120">
+<img src="https://skillicons.dev/icons?i=kubernetes" width="48"/><br>Kubernetes
 </td>
 
-<td align="center" width="100">
+<td align="center" width="120">
 <img src="https://skillicons.dev/icons?i=terraform" width="48"/><br>Terraform
 </td>
 
-<td align="center" width="100">
+<td align="center" width="120">
 <img src="https://skillicons.dev/icons?i=nginx" width="48"/><br>NGINX
 </td>
 
-<td align="center" width="100">
+<td align="center" width="120">
 <img src="https://skillicons.dev/icons?i=git" width="48"/><br>Git
 </td>
 
-<td align="center" width="100">
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/argocd/argocd-original.svg" width="48"/><br>ArgoCD
-</td>
-
-<td align="center" width="100">
-<img src="https://skillicons.dev/icons?i=jenkins" width="48"/><br>Jenkins
+<td align="center" width="120">
+<img src="https://skillicons.dev/icons?i=githubactions" width="48"/><br>GitHub Actions
 </td>
 
 </tr>
