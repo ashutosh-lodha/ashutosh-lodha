@@ -52,7 +52,7 @@ Building cloud-native platforms, distributed backend systems, and scalable cloud
 </td>
 
 <td align="center" width="100">
-<img src="https://skillicons.dev/icons?i=gcp" width="48"/><br>Google Cloud
+<img src="https://skillicons.dev/icons?i=gcp" width="48"/><br>GCP
 </td>
 
 <td align="center" width="100">
@@ -90,11 +90,11 @@ Building cloud-native platforms, distributed backend systems, and scalable cloud
 <img src="https://skillicons.dev/icons?i=git" width="48"/><br>Git
 </td>
 
-<td align="center" width="120">
+<td align="center" width="100">
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/argocd/argocd-original.svg" width="48"/><br>ArgoCD
 </td>
 
-<td align="center" width="120">
+<td align="center" width="100">
 <img src="https://skillicons.dev/icons?i=jenkins" width="48"/><br>Jenkins
 </td>
 
